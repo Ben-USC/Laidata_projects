@@ -1,0 +1,16 @@
+user_id, business_id, stars
+u1,b1,4
+u1,b2,5
+u1,b5,3
+u2,b1,4
+u2,b2,4
+u2,b4,4
+u2,b6,4
+u3,b2,5
+u3,b3,4
+u3,b4,5
+u3,b5,4
+u4,b3,5
+u4,b4,3
+u4,b5,3
+u4,b6,3
