@@ -1,1 +1,1 @@
-# Laidata projects: 2019 spring
+# Data Science projects: 2019 spring
